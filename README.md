@@ -5,7 +5,7 @@
 This repository contains the R code `run_analysis.R` that perform the folowing tasks:
 
     1.    Downloads data sets from the Samsung's Human Activity Recognition project. 
-    2.    Creates and stores them into the directory `./data` in the working directory.
+    2.    Stores the data into the directory `./data` in the working directory.
     3.    Merges the trainig and testing data sets.
     4.    Exteacts only the mean and standard deviation variables.
     5.    Replaces the activity codes with descriptive names.
