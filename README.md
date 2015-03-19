@@ -22,7 +22,7 @@ The package `reshape2` was needed to process the raw data.
 
 ## Final output
 
-The tidy data consists in a separated by commas dataset with 88 variables and 180 observations.
+The tidy data consists in a separated by commas dataset with 81 variables and 180 observations.
 
 
 

@@ -17,7 +17,7 @@ The `run_analysis.R` script performs the following transformations on the workin
     9.    Stores the tidy data in the `./data` directory, using the `write.table` function.
 
 ## Output of the script
-The tidy data set consists in a data frame with 88 variables and 180 observations. It contains the mean of the selected variables grouped by activity and subject.
+The tidy data set consists in a data frame with 81 variables and 180 observations. It contains the mean of the selected variables grouped by activity and subject.
 
 
 
