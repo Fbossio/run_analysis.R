@@ -1,6 +1,6 @@
 # Code Book
 ## Source of the raw data
-The data was obtained from the Human Activity Recognition Using Smartphones Data Set. It was downloaded from this url: 
+The data was obtained from the Human Activity Recognition Using Smartphones Data Set. It was downloaded from the url: 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 ## Data transformation
